@@ -1,5 +1,9 @@
 ## Setup
 
+- folders/files/imports
+- css (styled components)
+- error page, footer, seo
+
 ## Styled Components
 
 VS-Extension
@@ -69,18 +73,8 @@ require("dotenv").config({
 #### ROOT!!!!!!!!!!!!!!!
 
 .env.development
+.env.production
 
 ## Algolia
 
 [algolia](https://www.algolia.com/);
-
-## Project Steps
-
-- cover setup
-- styled components global css
-- basic gatsby background image
-- basic navbar
-- about
-- airtable
-- connect to airtable
-- env vars
