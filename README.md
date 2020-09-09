@@ -10,7 +10,7 @@ VS-Extension
 
 vscode-styled-components
 
-Regural Setup
+Regular Setup
 
 ```jsx
 import styled from "styled-components"
